@@ -4,7 +4,7 @@
 
 - [Homework 1](https://github.com/keita-makino/ttp289a-2019-1) / [demo](https://keita-makino.github.io/ttp289a-2019-1/)
 - [Homework 2](https://github.com/keita-makino/ttp289a-2019-2) / [demo](https://keita-makino.github.io/ttp289a-2019-2/)
-- [Homework 3 (Final Project)](https://github.com/keita-makino/ttp289a-2019-3) / [demo](https://keita-makino.github.io/ttp289a-2019-3/)
+- [Homework 3 (Final Project)](https://github.com/keita-makino/ttp289a-2019-3)
 
 ## ECS289H001-2019: Immersive Visualization
 
